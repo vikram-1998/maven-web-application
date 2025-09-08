@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>MithunTechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<link href="images/lord-hanuman-black-3840x2160-14679.jpg" rel="icon">
 </head>
 </head>
 <body>
@@ -31,14 +31,14 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/lord-hanuman-black-3840x2160-14679.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
+		Vikram, 
+		IT, , Beside Meghana Foods,
 		Bangalore,
-		+91-9980923226
-		devopstrainingblr@gmail.com
+		+91-123456978
+		Practice@gmail.com
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
 	</span>
