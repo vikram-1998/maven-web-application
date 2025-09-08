@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">HIII</h1>
-<h1 align="center"> Triggerred due to this change</h1>
+<h1 align="center"> This is vikram from Hindupur, I like to play bgmi and watch movies, Currently i am looking for a job change so i am preparing for the interview and i am learning Jenins now</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
