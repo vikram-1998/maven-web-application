@@ -33,6 +33,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<span>
 		<img src="images/lord-hanuman-black-3840x2160-14679.jpg" alt="" width="600" height="600">
 	</span>
+    <br>
 	<span style="font-weight: bold;">
 		Vikram, 
 		IT, , Beside Meghana Foods,
