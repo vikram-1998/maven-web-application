@@ -31,7 +31,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/lord-hanuman-black-3840x2160-14679.jpg" alt="" width="100">
+		<img src="images/lord-hanuman-black-3840x2160-14679.jpg" alt="" width="600" height="600">
 	</span>
 	<span style="font-weight: bold;">
 		Vikram, 
