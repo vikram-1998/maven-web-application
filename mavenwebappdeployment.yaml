@@ -36,7 +36,7 @@ metadata:
 spec:
   selector:
     app: javawebapp
-  type: LoadBalancer   # You can switch to LoadBalancer if using cloud provider
+  type: NodePort   # You can switch to LoadBalancer if using cloud provider
   ports:
     - port: 80
       targetPort: 8080
