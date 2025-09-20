@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">HIII</h1>
-<h1 align="center"> This is vikram from Hindupur, Currently i am for a job change am preparing for the interview and i am learning Jenins now ....Kubernetesssss triggering throgh github push</h1>
+<h1 align="center"> This is vikram from Hindupur, Currently i am for a job change am preparing for the interview and i am learning Jenins now ....Kubernetes triggering throgh github push</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
