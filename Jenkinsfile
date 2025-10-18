@@ -1,10 +1,12 @@
 pipeline {
     agent any
-tools {
-        maven 'Maven3' // This is the name you configured in Jenkins tool
+
+    tools {
+        maven 'Maven3' // Must match the name configured in Jenkins
     }
+
     stages {
-        stage('Checkout now 1') {
+        stage('Checkout') {
             steps {
                 echo "Checking out code from main branch..."
                 checkout([$class: 'GitSCM',
@@ -15,6 +17,22 @@ tools {
                           ]]
                 ])
             }
+        }
+
+        stage('Build & Test') {
+            steps {
+                echo "Building project and running tests..."
+                sh 'mvn clean package' // This will compile and run tests
+            }
+        }
+    }
+    
+    post {
+        success {
+            echo "Build and tests succeeded!"
+        }
+        failure {
+            echo "Build or tests failed!"
         }
     }
 }
