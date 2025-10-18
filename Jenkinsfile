@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     stages {
-        stage('Checkout now') {
+        stage('Checkout now 1') {
             steps {
                 echo "Checking out code from main branch..."
                 checkout([$class: 'GitSCM',
